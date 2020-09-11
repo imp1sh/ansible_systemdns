@@ -10,7 +10,7 @@ galaxy_info:
     - all
 
   galaxy_tags:
-  - DNS
-  - resolv.conf
+  - dns
+  - resolvconf
 
 dependencies: []
